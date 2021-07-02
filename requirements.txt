@@ -9,4 +9,4 @@ pyseeyou==1.0.2
 prometheus_client==0.11.0
 asyncpg==0.22.0
 emoji==0.6.0
-kubernetes==12.0.1
+kubernetes==17.17.0
